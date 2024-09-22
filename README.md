@@ -15,3 +15,19 @@
 - Hyper Text Markup Language (HTML)
 - Cascading Style Shets (CSS)
 - JavaScript (JS)
+
+
+### ScreenShots 
+#### Image-1
+![Image](pics/ReadMe_pic1.png)
+
+#### Image-2
+![Image](pics/ReadMe_pic2.png)
+
+
+
+### Credits:
+
+##### Images Source: [Background Image](https://t4.ftcdn.net/jpg/03/61/93/45/360_F_361934573_ftbloadKJ4ydVMMjY9jBX6SMmtRbU3yz.jpg)
+
+##### Emojis : [Emojis](https://www.pinterest.com/emilylovehugyou/pictures-of-emojis/)
